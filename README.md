@@ -47,6 +47,7 @@ _A modern e-learning platform to master the beauty of the French language._
 Master French at your own pace with cutting-edge technology and an intuitive learning experience. Start your journey today!
 
 ---
+![Image](https://github.com/user-attachments/assets/0551f1ce-c4a1-470e-884b-62d64c87f713)
 
 ## 👥 **Contributors**  
 This project is being developed by:
